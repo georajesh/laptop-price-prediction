@@ -1,5 +1,5 @@
 
-# Machine Learning Project: Laptop Price Prediction
+# Project: Laptop Price Prediction
 
 ## Introduction
 In the modern technological era, laptops are essential for personal and professional use. The diverse range of models available, each with varying specifications and pricing, poses challenges for consumers to ascertain value-for-money options. Additionally, GPUs (Graphics Processing Units) are critical in defining laptop suitability for specific tasks such as gaming, graphic design, or machine learning.
